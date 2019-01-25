@@ -6,7 +6,7 @@
  * Time: 下午6:10
  */
 
-namespace Medatc;
+namespace Sms;
 
 
 class SmsDemo

@@ -1,6 +1,6 @@
 <?php
 
-namespace Medatc;
+namespace Sms;
 
 /**
  * 签名助手
