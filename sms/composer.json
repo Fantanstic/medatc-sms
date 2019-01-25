@@ -1,0 +1,22 @@
+{
+  "name": "medatc/sms",
+  "description": "SMS SDK for PHP",
+  "authors" : [
+    {
+        "name" : "jiajie",
+        "email": "jiajie@medatc.com"
+    }
+  ],
+  "require" : {
+      "php" : ">=5.5.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.0"
+  },
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "sms\\": "src/"
+    }
+  }
+}
